@@ -1,4 +1,4 @@
-BigMart Sales Prediction App
+Sales Store Prediction App
 
 This app predicts the sales of products in BigMart stores based on various input features, including product and outlet information.
 
