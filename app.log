@@ -499,3 +499,45 @@
 2024-12-18 21:33:21,058 - INFO - Encoders and scalers loaded successfully.
 2024-12-18 21:33:21,075 - INFO - Inputs encoded successfully.
 2024-12-18 21:33:21,089 - INFO - Prediction successful: 1700.0567626953125
+2024-12-18 23:08:00,868 - INFO - BigMart Sales Prediction App started.
+2024-12-18 23:08:05,755 - INFO - Model loaded successfully.
+2024-12-18 23:08:06,335 - INFO - Encoders and scalers loaded successfully.
+2024-12-18 23:08:06,903 - INFO - Inputs encoded successfully.
+2024-12-18 23:08:21,577 - INFO - BigMart Sales Prediction App started.
+2024-12-18 23:08:21,591 - INFO - Model loaded successfully.
+2024-12-18 23:08:21,592 - INFO - Encoders and scalers loaded successfully.
+2024-12-18 23:08:21,611 - INFO - Inputs encoded successfully.
+2024-12-18 23:08:25,498 - INFO - BigMart Sales Prediction App started.
+2024-12-18 23:08:25,519 - INFO - Model loaded successfully.
+2024-12-18 23:08:25,521 - INFO - Encoders and scalers loaded successfully.
+2024-12-18 23:08:25,536 - INFO - Inputs encoded successfully.
+2024-12-18 23:08:25,671 - INFO - BigMart Sales Prediction App started.
+2024-12-18 23:08:25,688 - INFO - Model loaded successfully.
+2024-12-18 23:08:25,689 - INFO - Encoders and scalers loaded successfully.
+2024-12-18 23:08:25,721 - INFO - Inputs encoded successfully.
+2024-12-18 23:08:27,624 - INFO - BigMart Sales Prediction App started.
+2024-12-18 23:08:27,634 - INFO - Model loaded successfully.
+2024-12-18 23:08:27,635 - INFO - Encoders and scalers loaded successfully.
+2024-12-18 23:08:27,646 - INFO - Inputs encoded successfully.
+2024-12-18 23:08:29,055 - INFO - BigMart Sales Prediction App started.
+2024-12-18 23:08:29,109 - INFO - Model loaded successfully.
+2024-12-18 23:08:29,110 - INFO - Encoders and scalers loaded successfully.
+2024-12-18 23:08:29,128 - INFO - Inputs encoded successfully.
+2024-12-18 23:16:14,556 - DEBUG - Popen(['git', 'version'], cwd=C:\Users\varsh\Documents\ineuron 1\Sales_IneuronFinal, stdin=None, shell=False, universal_newlines=False)
+2024-12-18 23:16:14,620 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=C:\Users\varsh\Documents\ineuron 1\Sales_IneuronFinal, stdin=None, shell=False, universal_newlines=False)
+2024-12-18 23:16:14,666 - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=C:\Users\varsh\Documents\ineuron 1\Sales_IneuronFinal, stdin=None, shell=False, universal_newlines=False)
+2024-12-18 23:16:14,725 - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=C:\Users\varsh\Documents\ineuron 1\Sales_IneuronFinal, stdin=None, shell=False, universal_newlines=False)
+2024-12-18 23:16:14,779 - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=C:\Users\varsh\Documents\ineuron 1\Sales_IneuronFinal, stdin=None, shell=False, universal_newlines=False)
+2024-12-18 23:16:14,830 - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=C:\Users\varsh\Documents\ineuron 1\Sales_IneuronFinal, stdin=<valid stream>, shell=False, universal_newlines=False)
+2024-12-18 23:16:14,880 - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=C:\Users\varsh\Documents\ineuron 1\Sales_IneuronFinal, stdin=None, shell=False, universal_newlines=False)
+2024-12-19 18:36:07,432 - INFO - BigMart Sales Prediction App started.
+2024-12-19 18:36:12,164 - INFO - Model loaded successfully.
+2024-12-19 18:36:12,548 - INFO - Encoders and scalers loaded successfully.
+2024-12-19 18:36:12,816 - INFO - Inputs encoded successfully.
+2024-12-19 18:36:34,271 - DEBUG - Popen(['git', 'version'], cwd=C:\Users\varsh\Documents\ineuron 1\Sales_IneuronFinal, stdin=None, shell=False, universal_newlines=False)
+2024-12-19 18:36:34,338 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=C:\Users\varsh\Documents\ineuron 1\Sales_IneuronFinal, stdin=None, shell=False, universal_newlines=False)
+2024-12-19 18:36:34,383 - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=C:\Users\varsh\Documents\ineuron 1\Sales_IneuronFinal, stdin=None, shell=False, universal_newlines=False)
+2024-12-19 18:36:34,419 - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=C:\Users\varsh\Documents\ineuron 1\Sales_IneuronFinal, stdin=None, shell=False, universal_newlines=False)
+2024-12-19 18:36:34,465 - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=C:\Users\varsh\Documents\ineuron 1\Sales_IneuronFinal, stdin=None, shell=False, universal_newlines=False)
+2024-12-19 18:36:34,513 - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=C:\Users\varsh\Documents\ineuron 1\Sales_IneuronFinal, stdin=<valid stream>, shell=False, universal_newlines=False)
+2024-12-19 18:36:34,549 - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=C:\Users\varsh\Documents\ineuron 1\Sales_IneuronFinal, stdin=None, shell=False, universal_newlines=False)
